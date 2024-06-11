@@ -30,13 +30,13 @@ header .nav-link.active {
 }
 
 header .nav-link:hover {
-  background: linear-gradient(90deg, #81dbfa 1.35%, #81dbfa 72.52%);
+  background: linear-gradient(90deg, #81dbfa 1.35%, #255bb3 72.52%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 header .nav-link:active {
-  background: linear-gradient(90deg, #81dbfa 1.35%, #81dbfa 72.52%);
+  background: linear-gradient(90deg, #81dbfa 1.35%, #255bb3 72.52%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -60,7 +60,7 @@ header .btn-contact:hover {
   /* -webkit-text-fill-color: transparent; */
   font-size: .85rem;
   color: #000;
-  background: #f8d33c;
+  background: #81dbfa;
   border-radius: 25px;
 }
 
@@ -377,7 +377,7 @@ header .btn-contact:hover {
 }
 
 .whitepaper h4 {
-  background: linear-gradient(90deg, #efcc43 1.35%, #efcc43 72.52%);
+  background: linear-gradient(90deg, #81dbfa 1.35%, #81dbfa 72.52%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   font-size: 1.5rem;

@@ -7,7 +7,7 @@ html {
 
 body {
   font-family: 'Roboto', sans-serif;
-  background-color: #81dbfa;
+  background-color: #050D1A;
   z-index: -1;
   background-image: url(bg.png);
   background-size: cover;
@@ -26,17 +26,17 @@ header .nav-link {
 }
 
 header .nav-link.active {
-  color: #81dbfa;
+  color: #F2C94C;
 }
 
 header .nav-link:hover {
-  background: linear-gradient(90deg, #81dbfa 1.35%, #255bb3 72.52%);
+  background: linear-gradient(90deg, #BE844D 1.35%, #FFD700 72.52%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 header .nav-link:active {
-  background: linear-gradient(90deg, #81dbfa 1.35%, #255bb3 72.52%);
+  background: linear-gradient(90deg, #BE844D 1.35%, #FFD700 72.52%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -44,12 +44,12 @@ header .nav-link:active {
 header .btn-contact {
   background: #fff;
   font-size: .85rem;
-  color: #81dbfa;
+  color: #292142;
   font-weight: 400;
 }
 
 header .btn-contact:hover {
-  background: linear-gradient(90deg, #81dbfa 1.35%, #255bb3 72.52%);
+  background: linear-gradient(90deg, #BE844D 1.35%, #FFD700 72.52%);
   color: #fff;
 }
 
@@ -60,7 +60,7 @@ header .btn-contact:hover {
   /* -webkit-text-fill-color: transparent; */
   font-size: .85rem;
   color: #000;
-  background: #81dbfa;
+  background: #f8d33c;
   border-radius: 25px;
 }
 
@@ -73,7 +73,7 @@ header .btn-contact:hover {
   bottom: 0;
   border-radius: 50px;
   padding: 1.5px;
-  background: linear-gradient(45deg, #81dbfa, #255bb3);
+  background: linear-gradient(45deg, #BE844D, #FFD700);
   -webkit-mask:
     linear-gradient(#fff 0 0) content-box,
     linear-gradient(#fff 0 0);
@@ -104,7 +104,7 @@ header .btn-contact:hover {
 
 .headertext h2 {
   font-weight: 400;
-  background: linear-gradient(90deg, #81dbfa 1.35%, #255bb3 72.52%);
+  background: linear-gradient(90deg, #BE844D 1.35%, #FFD700 72.52%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   font-size: 1.9rem;
@@ -145,7 +145,7 @@ header .btn-contact:hover {
 .choose hr {
   border-radius: 50rem;
   height: 4px;
-  background: linear-gradient(90deg, #81dbfa 0%, #255bb3 100%);
+  background: linear-gradient(90deg, #BE844D 0%, #efcc43 100%);
   margin-bottom: .5rem;
 }
 
@@ -257,12 +257,12 @@ header .btn-contact:hover {
   right: 15%;
   z-index: 1;
   color: #E1D6AF;
-  text-shadow: 0px 0px 0 rgb(19, 49, 214),
-    0px 1px 0 rgb(0, 69, 231),
-    0px 2px 0 rgb(0, 69, 231),
-    0px 3px 0 rgb(0, 69, 231),
-    0px 4px 0 rgb(0, 69, 231),
-    0px 5px 0 rgb(0, 69, 231),
+  text-shadow: 0px 0px 0 rgb(243, 181, 0),
+    0px 1px 0 rgb(231, 169, 0),
+    0px 2px 0 rgb(220, 158, 0),
+    0px 3px 0 rgb(208, 146, 0),
+    0px 4px 0 rgb(196, 134, 0),
+    0px 5px 0 rgb(184, 122, 0),
     0px 6px 5px rgba(0, 0, 0, 0.43),
     0px 6px 1px rgba(0, 0, 0, 0.5),
     0px 0px 5px rgba(0, 0, 0, .2);
@@ -295,7 +295,7 @@ header .btn-contact:hover {
 }
 
 .staking h3 {
-  background: linear-gradient(90deg, #81dbfa 1.35%, #255bb3 72.52%);
+  background: linear-gradient(90deg, #BE844D 1.35%, #FFD700 72.52%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   font-size: 1.5rem;
@@ -323,7 +323,7 @@ header .btn-contact:hover {
 .staking .card-title {
   margin-bottom: 0;
   font-size: 1.8rem;
-  color: #255bb3;
+  color: #efcc43;
   font-weight: 500;
   text-align: center;
 }
@@ -337,7 +337,7 @@ header .btn-contact:hover {
 .whitepaper hr {
   border-radius: 50rem;
   height: 4px;
-  background: linear-gradient(90deg, #81dbfa 0%, #255bb3 100%);
+  background: linear-gradient(90deg, #BE844D 0%, #FFD700 100%);
   margin-bottom: .5rem;
 }
 
@@ -369,7 +369,7 @@ header .btn-contact:hover {
   bottom: 0;
   border-radius: 35px;
   padding: 1.5px;
-  border: 1px solid #255bb3;
+  border: 1px solid #efcc43;
   /* background: linear-gradient(45deg, #efcc43, #efcc43); */
   /* -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); */
   -webkit-mask-composite: destination-out;
@@ -377,7 +377,7 @@ header .btn-contact:hover {
 }
 
 .whitepaper h4 {
-  background: linear-gradient(90deg, #81dbfa 1.35%, #81dbfa 72.52%);
+  background: linear-gradient(90deg, #efcc43 1.35%, #efcc43 72.52%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   font-size: 1.5rem;
@@ -393,13 +393,13 @@ header .btn-contact:hover {
 footer {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  background: #255bb3;
+  background: #efcc43;
 }
 
 footer hr {
   border-radius: 50rem;
   height: 3px !important;
-  background: linear-gradient(90deg, #81dbfa 0%, #255bb3 100%);
+  background: linear-gradient(90deg, #BE844D 0%, #FFD700 100%);
   margin-top: 0;
   margin-bottom: 1.5rem;
 }
@@ -512,7 +512,7 @@ footer img.social {
 }
 
 .f-col {
-  color: #81dbfa !important;
+  color: #efcc43 !important;
 }
 
 .ping {
@@ -546,7 +546,7 @@ footer img.social {
 }
 
 .bg-col {
-  background-color: #81dbfa;
+  background-color: #efcc43;
 }
 
 .bg-0 {
